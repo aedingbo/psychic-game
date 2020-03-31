@@ -1,4 +1,4 @@
-# word-guess-game
+# psychic-game
 
 Psychic-Game
 Overview
